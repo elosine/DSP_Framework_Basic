@@ -219,9 +219,6 @@ n.sendMsg("/kill", "out1");
 n.sendMsg("/kill", "mic1");
 
 
-
-
-
 //make simple gui in processing
 //killall
 //put in initialization sequence
